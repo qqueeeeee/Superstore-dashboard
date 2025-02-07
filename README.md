@@ -4,6 +4,9 @@ This Dashboard is an interactive analytics tool that provides key insights into 
 
 - The Dataset: https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
 
+The files uploaded are; The PowerBI file with the dashboard and the image that was used as the background of the dashboard.
+
+
 It gives information such as:
 - View total sales, profit, and order trends.
 - Revenue & Profit Analysis – Compare revenue vs. profit across different timeframes.
